@@ -1,5 +1,4 @@
 # Crud-Php-Mysql-Materialize
-<<<<<<< RodrigoBLima-patch-1
 Crud para cadastro de clientes
 
 
@@ -28,7 +27,7 @@ Crud para cadastro de clientes
 ## Livre
 
 O código neste repositório não está licenciado de nenhuma forma.
-=======
+
 
 > Crud para cadastro de clientes
->>>>>>> master
+
